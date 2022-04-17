@@ -1,0 +1,141 @@
+body{
+    background-color: #ffb6c1;
+}
+
+p.texto1{
+    color: #530000;
+    font-family: Georgia, 'Times New Roman';
+    font-size: 25px;
+    text-align: center;
+
+    text-decoration-line:  overline underline ;
+    text-decoration-color: #000000;
+    text-decoration-thickness: 20%;
+    color: #530000; text-shadow: #ffff 0.1em 0.1em 0.2em;
+
+
+}
+p.texto4{
+    color: #7e0101;
+    background:#bfa3e4 ; width: 400px;
+    font-family: Fantasy;
+    font-size: 20px;
+    font-style: normal ;
+    
+    border:#060057;
+    border-style:dashed;
+    border-width: 5px;
+
+
+}
+p.texto5{
+    color: #002d57;
+    background:#acf7f3; width: 400px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-style: normal ;
+
+    border:#035700;
+    border-style:solid;
+    border-width: 5px;
+
+
+}
+p.texto6{
+    color: #039777;
+    background:rgb(253, 227, 180) ; width: 400px; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-style: normal ;
+
+    border:#003e57;
+    border-style:double;
+    border-width: 5px;
+
+}
+p.texto7{
+    color: #016432;
+    background:rgba(214, 135, 172, 0.829) ; width: 400px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-style: normal ;
+
+    border:#170057;
+    border-style:dashed;
+    border-width: 5px;
+
+}
+p.texto8{
+    color: #6f7702;
+    background:rgb(185, 252, 191) ; width: 400px; 
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: normal ;
+
+    border:#607a03;
+    border-style:solid;
+    border-width: 5px;
+
+}
+p.texto9{
+    color: #ac0243;
+    background:#c2c591 ; width: 400px; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-style:normal ;
+
+    border:#d3a305;
+    border-style:double;
+    border-width: 5px;
+
+
+}
+p.texto10{
+    color: #00524e;
+    background:rgb(214, 161, 194) ; width: 400px; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: normal ;
+
+    border:#ff2803;
+    border-style:solid;
+    border-width: 5px;
+
+}
+p.texto11{
+    color: #0373a7d8;
+    background:rgb(203, 214, 253) ; width: 400px; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: normal ;
+
+    border:#01b4ab;
+    border-style:dashed;
+    border-width: 5px;
+    
+
+}
+p.texto12{
+    color: #70020bd3;
+    background:rgb(209, 255, 190) ; width: 400px; 
+    font-family:monospace;
+    font-size: 20px;
+    font-style: normal ;
+
+    border:#740183;
+    border-style:double;
+    border-width: 5px;
+
+}
+p.texto13{
+    color: #8f8c01;
+    background:#ffebb4 ; width: 400px; 
+    font-family:sans-serif;
+    font-size: 20px;
+    font-style: normal ;
+
+    border:#57001a;
+    border-style:solid;
+    border-width: 5px;
+
+}
